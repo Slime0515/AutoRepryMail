@@ -8,3 +8,8 @@ How to use AutoReply
 4. systemctl start AutoReply.service
 
 if you find any bugs, please contact sawada@cbyte.online
+
+若年者ものづくり競技大会 ITネットワークシステム管理 第19回大会 の環境再現で
+メールの自動返信が必要になったので作成しました．
+
+仮想環境上のみで使用してください．
