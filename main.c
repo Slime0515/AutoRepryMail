@@ -28,7 +28,7 @@ int main(void)
 				syslog(LOG_INFO, "can not send mail\n");
 			}
 			else if (send_mail_state == true) {
-				syslog(LOG_INFO, "succsesful send mail\n");
+				syslog(LOG_INFO, "successful send mail\n");
 			}
 
 			reset_mail_info(&mail);
